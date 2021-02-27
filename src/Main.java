@@ -48,6 +48,7 @@ public class Main {
         //    Задание 6
         System.out.println("Task 6.");
 
+        ///jkwejfniejiqwedn
         int[] sumsArray = { 1, 1, 1, 1, 1, 1 };
         System.out.println(Arrays.toString(sumsArray));
         boolean isBalanced = hasBalance(sumsArray);
